@@ -1,0 +1,4 @@
+int a=5, b=5;
+
+int add c = a+b;
+return c;
